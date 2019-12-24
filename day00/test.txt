@@ -1,0 +1,2124 @@
+Col1 : 1
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : H
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 1.008
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 2
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : He
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 4.0026
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 3
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Li
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 6.941
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 4
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Be
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 9.0122
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 5
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : B
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 10.811
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 6
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : C
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 12
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 7
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : N
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 14.007
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 8
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : O
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 15.9994
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 9
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : F
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 18.998
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 10
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ne
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 20.180
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 11
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Na
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 22.9898
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 12
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Mg
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 24.305
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 13
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Al
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 26.982
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 14
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Si
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 28.086
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 15
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : P
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 30.974
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 16
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : S
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 32.065
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 17
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cl
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 35.453
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 18
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ar
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 39.948
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 19
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : K
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 39.098
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 20
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ca
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 40.078
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 21
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Sc
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 44.956
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 22
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ti
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 47.867
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 23
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : V
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 50.94
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 24
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 52.0
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 25
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Mn
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 55.0
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 26
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Fe
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 55.845
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 27
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Co
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 58.933
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 28
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ni
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 58.693
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 29
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cu
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 63.546
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 30
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Zn
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 65.38
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 31
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ga
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 69.723
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 32
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ge
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 72.64
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 33
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : As
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 74.922
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 34
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Se
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 78.96
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 35
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Br
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 79.904
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 36
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Kr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 83.798
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 37
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Rb
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 85.468
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 38
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Sr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 87.62
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 39
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Y
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 88.906
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 40
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Zr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 91.224
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 41
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Nb
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 92.906
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 42
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Mo
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 95.96
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 43
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Tc
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 98.9062
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 44
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ru
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 101.07
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 45
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Rh
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 102.91
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 46
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pd
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 106.42
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 47
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ag
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 107.87
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 48
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cd
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 112.41
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 49
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : In
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 114.82
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 50
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Sn
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 118.71
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 51
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Sb
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 121.76
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 52
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Te
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 127.60
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 53
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : I
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 126.90
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 54
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Xe
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 131.29
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 55
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cs
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 132.91
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 56
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ba
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 137.33
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 57-71
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 72
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Hf
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 178.49
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 73
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ta
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 180.95
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 74
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : W
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 184.0
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 75
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Re
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 186.21
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 76
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Os
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 190.23
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 77
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ir
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 192.22
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 78
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pt
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 195.08
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 79
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Au
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 196.97
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 80
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Hg
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 200.59
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 81
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Tl
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 204.38
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 82
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pb
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 207.2
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 83
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Bi
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 208.98
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 84
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Po
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (209)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 85
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : At
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (210)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 86
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Rn
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (222)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 87
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Fr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (223)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 88
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ra
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 226.025
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 89-103
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 104
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Rf
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (261)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 105
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Db
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (282)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 106
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Sg
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (283)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 107
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Bh
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (262)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 108
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Hs
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (265)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 109
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Mt
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (266)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 110
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ds
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : -
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 111
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Rg
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : -
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 112
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cn
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : -
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 6
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : lanthanides
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 57
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : La
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 138.91
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 58
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ce
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 140.12
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 59
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 140.91
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 60
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Nd
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 144.24
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 61
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pm
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : -
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 62
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Sm
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 150.36
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 63
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Eu
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 151.96
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 64
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Gd
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 157.25
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 65
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Tb
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 158.93
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 66
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Dy
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 162.50
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 67
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ho
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 164.93
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 68
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Er
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 167.26
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 69
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Tm
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 168.93
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 70
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Yb
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 173.05
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 71
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Lu
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 174.97
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 7
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : actinides
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 89
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Ac
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (227)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 90
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Th
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 232.04
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 91
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pa
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 231.04
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 92
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : U
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 238.03
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 93
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Np
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 237.048
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 94
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Pu
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (242)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 95
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Am
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (243)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 96
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cm
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (247)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 97
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Bk
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (247)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 98
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Cf
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (249)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 99
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Es
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (254)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 100
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Fm
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (253)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 101
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Md
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (256)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 102
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : No
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (254)
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 103
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : 
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : Lr
+Col2 : 
+Col3 : 
+Col4 : 
+Col1 : (257)
+Col2 : 
+Col3 : 
+Col4 : 

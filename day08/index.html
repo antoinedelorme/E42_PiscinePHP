@@ -1,0 +1,36 @@
+<HTML>
+
+<HEAD>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function () {
+			$.get("./load_game.php", function (data, status) {
+				$("#map").html(data);
+			});
+		});
+		
+	</script>
+
+</HEAD>
+
+<body>
+	<div class="upper_bar">
+
+	</div>
+	<div id="map">
+	</div>
+	<div class="container_right">
+		<div class="information_bar">
+
+		</div>
+		<div class="buttons_zone">
+		</div>
+	</div>
+
+	</div>
+</body>
+
+</HTML>

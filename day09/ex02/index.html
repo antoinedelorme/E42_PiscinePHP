@@ -1,0 +1,130 @@
+<html>
+
+<head>
+	<style>
+		div {
+			width: 1000px;
+			background-color: lightblue;
+			position: relative;
+			left:30%	;
+		
+		}
+
+		#button {
+			width: 50px;
+			height: 50px;
+			position: relative;
+			left: 30%;
+		}
+
+		ul {
+			list-style-type: none;
+			margin-top: 1em;
+  			margin-bottom: 1 em;
+		}
+		li {
+			background-color: lightblue;
+			height: 50px;
+			left:-50px;
+			font-family: Arial, Helvetica, sans-serif;	
+			font-size: 20px;
+			border-bottom-style:groove;
+	
+			
+			position:relative;
+		}
+	</style>
+</head>
+
+<body>
+	<button onclick="clicked()" id="button">
+		New
+	</button>
+	<div id='ft_list'>
+
+	</div>
+
+
+	<script>
+		var button = document.getElementById('button');
+		var container = document.getElementById('ft_list');
+		var list = [];
+		var cookie = getCookie('smallcookie');
+		
+		if (cookie)
+			list = JSON.parse(cookie);
+		refresh_table();
+
+		var listElement;
+		function clicked() {
+			var todo = prompt("Please enter your name", "Party all night !!");
+			if (todo != '') {
+				list.push(todo);
+				setCookie();
+				refresh_table();
+			}
+		}
+
+		function remove_item(id) {
+			if (window.confirm("confirm you want to delete : " + list[list.length -1 - (id.substring(7, 99))])) {
+				list.splice(length -1 - parseInt(id.substring(7, 99)), 1);
+				setCookie();
+				refresh_table();
+			}
+
+		}
+
+		function change_color(id) {
+			var elem =document.getElementById(id);
+			elem.style.backgroundColor = "lightpink" 
+		}
+
+		function back_color(id) {
+			var elem =document.getElementById(id);
+			elem.style.backgroundColor = "lightblue" 
+		}
+
+		function refresh_table() {
+			var i = 0;
+			var temp = [];
+			while (container.firstChild) {
+				container.removeChild(container.firstChild);
+			}
+			ul = document.createElement('ul');
+			document.getElementById('ft_list').appendChild(ul);
+			for(j = 0; j < list.length;j++) {
+				let li = document.createElement('li');
+				li.setAttribute('id', 'element' + i);
+				li.setAttribute('onclick', 'remove_item(this.id)');
+				li.setAttribute('onmouseover', 'change_color(this.id)');
+				li.setAttribute('onmouseout', 'back_color(this.id)');
+				i++;
+				ul.appendChild(li);
+				li.innerHTML = list[list.length - j - 1];
+			};
+		}
+
+		function setCookie() {
+			var d, expires;
+			d = new Date();
+			d.setTime(d.getTime() + 3600000);
+			expires = "expires=" + d.toUTCString();
+			document.cookie = "smallcookie=" + JSON.stringify(list) + "; " + expires;
+		}
+
+		function getCookie(name) {
+			var cookie, c;
+			cookies = document.cookie.split(';');
+			for (var i = 0; i < cookies.length; i++) {
+				c = cookies[i].split('=');
+				if (c[0].search(name) != -1) {
+					return c[1];
+				}
+			}
+			return "";
+		}
+
+	</script>
+</body>
+
+</html>

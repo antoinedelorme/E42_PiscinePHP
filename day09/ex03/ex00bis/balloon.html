@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<style>
+			#baloon {
+				width: 200px;
+				height: 200px;
+				background-color: red;
+				border-radius: 100px;
+				position:relative;
+				left:50%;
+				top:20%;
+				
+			}
+		</style>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	</head>
+	<body>
+		<div onclick='myFunction()' onmouseout="myFunction2()" id = 'baloon'>
+			
+
+		</div>
+		<script>
+			var n = 0;
+			var w, h;
+			var size = 200;
+			var elem = $('#baloon')[0];	
+			function myFunction(){
+				n = (n + 1) % 3;
+				size = size + 10;
+				
+				baloonDisplay();
+			}
+
+			function myFunction2()
+			{
+				size = size - 5;
+				n = (n + 2) % 3;
+				if (size < 200)
+				{
+					size = 200;
+				}
+					
+				baloonDisplay();
+
+
+			} 
+			
+			function baloonDisplay()
+			{
+				if (size == 430)
+					{
+						elem.style.display = "none";
+					}
+				elem.style.width = size + 'px';
+				elem.style.height = size + 'px';
+				elem.style.borderRadius= size / 2 + 'px';
+				switch (n) {
+					case 0:
+						elem.style.backgroundColor = 'red';
+						break;
+					case 1:
+					elem.style.backgroundColor = 'green';
+						break;
+					case 2:
+					elem.style.backgroundColor = 'blue';
+						break;
+				
+				}
+			} 
+			
+
+		</script>
+	</body>
+</html>

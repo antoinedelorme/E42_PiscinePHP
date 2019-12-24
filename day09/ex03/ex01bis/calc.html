@@ -1,0 +1,96 @@
+<html>
+	<head>
+		<style>
+			#baloon {
+				width: 200px;
+				height: 200px;
+				background-color: red;
+				border-radius: 100px;
+				position:relative;
+				left:50%;
+				top:20%;
+				
+			}
+		</style>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+	</head>
+	<body>
+		<input type = 'text' id = 'x1'>
+		<select name="operator" id="op">
+				<option value="">--choose--</option>
+				<option value="+">+</option>
+				<option value="-">-</option>
+				<option value="*">*</option>
+				<option value="/">/</option>
+				<option value="%">%</option>
+			</select>
+		<input type = 'text' id = 'x2'> 
+		<input onclick = "Compute()"
+      	 type="button"
+       	 value="try me">
+
+		<script>
+			var interval = 30000;
+			var x1 = $('#x1')[0];
+			var x2 = $('#x2')[0];
+			var op = $('#op')[0];
+			var now = new Date().getTime();
+			setTimeout(CallMe, interval - (now % interval));
+			var result = 'NOT OK';
+
+			function CallMe()
+			{
+				now = new Date().getTime();
+				alert('Please, use me ..');
+				setTimeout(CallMe, interval - (now % interval));
+				
+			}
+			function Compute()
+			{
+				y1 = parseFloat(x1.value);
+				y2 = parseFloat(x2.value);
+				
+				if (y1 >=0 && y2 >=0)
+				{
+					switch (op.value)
+				{
+					case  '+':
+						result = y1+y2+'';
+					break;
+
+					case  '*':
+						result = y1*y2+'';
+					break;
+
+					case  '-':
+						result = y1-y2+'';
+					break;
+
+					case  '/':
+						if (y2 != 0)
+							result = y1/y2+'';
+						else 
+							result = 'It’s over 9000!';
+						break;
+
+					case  '%':
+						if (y2 != 0)
+							result = y1%y2+'';
+						else 
+							result = 'It’s over 9000!';
+						break;
+
+				}
+				}
+				else
+					result = 'Error :(';
+				
+				
+
+				alert(result);
+			}
+			
+		</script>
+	</body>
+</html>
